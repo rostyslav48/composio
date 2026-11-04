@@ -12,6 +12,7 @@
     "[iMessage agent](/examples/imessage-agent)",
     "[CSV report agent](/examples/csv-report-agent)",
     "[Email-triggered agent](/examples/email-triggered-agent)",
+    "[Mailtrap email QA agent](/examples/mailtrap-email-qa)",
     "---Integration patterns---",
     "[Bring your own agent harness](/examples/harness-integration)",
     "[TypeSafe tool selection](/examples/typesafe-tool-selection)",
